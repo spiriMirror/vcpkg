@@ -9,6 +9,8 @@ vcpkg_from_github(
 vcpkg_cmake_configure(
     SOURCE_PATH "${SOURCE_PATH}"
     OPTIONS
+    "-DFLOAT_TETWILD_BUILD_TESTS=OFF"
+    "-DFLOAT_TETWILD_BUILD_CLI=OFF"
 )
 
 vcpkg_cmake_install()
