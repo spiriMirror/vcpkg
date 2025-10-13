@@ -1,0 +1,15 @@
+{
+  "name": "pxr-boost-python",
+  "version": "25.5.1",
+  "description": "Interface for casting PyObject to pxr types and vice versa.",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
