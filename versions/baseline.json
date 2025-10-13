@@ -7776,6 +7776,10 @@
       "baseline": "0.9.18",
       "port-version": 0
     },
+    "pxr-boost-python": {
+      "baseline": "25.5.1",
+      "port-version": 0
+    },
     "pybind11": {
       "baseline": "3.0.1",
       "port-version": 0
