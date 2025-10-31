@@ -1,4 +1,0 @@
-pxr-boost-python provides CMake targets:
-
-    find_package(PxrBoostPython CONFIG REQUIRED)
-    target_link_libraries(main PRIVATE PxrBoostPython::PxrBoostPython)
